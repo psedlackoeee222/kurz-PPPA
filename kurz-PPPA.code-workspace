@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PPPA/dual-log-plot"
+		},
+		{
+			"path": "../PPPA/API_to_CSV"
+		}
+	],
+	"settings": {}
+}
